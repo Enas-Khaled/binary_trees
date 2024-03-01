@@ -2,9 +2,9 @@
 
 /**
  * binary_tree_insert_left - func to insert a node as left
- * 
  *
- * @parent: ptr to the node to insert the left-child 
+ *
+ * @parent: ptr to the node to insert the left-child
  * @value: value to store in the new node.
  *
  * Return: pointer to the created node,or NULL.
